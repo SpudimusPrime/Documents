@@ -11,6 +11,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows 2000 through Current Windows Release, MacOS, and Linux.|
 |**Usage**|Universal* lightweight file compression tool.|
+|**Winget**|`winget install -e --id 7zip.7zip`|
+|**Keywords**|`compression` `zip` `7-zip`|
 
 # Adobe Reader
 | | |
@@ -20,6 +22,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows, MacOS|
 |**Usage**|Reading and printing PDF files|
+|**Winget**|`winget install -e --id Adobe.Acrobat.Reader.64-bit`|
+|**Keywords**|`pdf` `adobe` `acrobat` `reader`|
 
 # Advanced IP Scanner
 | | |
@@ -29,6 +33,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows 7 through Current Windows Release, no Mac or Linux support at this time.|
 |**Usage**|Finds all local network devices, and displays options to remote control them or browse shared folders|
+|**Winget**|`winget install -e --id Famatech.AdvancedIPScanner`|
+|**Keywords**|`tool` `network` `ip` `scanner`|
 
 # Baretail
 | | |
@@ -38,6 +44,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free/$25 to remove splash screen|
 |**Compatibility**|Windows|
 |**Usage**|Useful for watching and filtering text files update live, such as log files.|
+|**Winget**||
+|**Keywords**|`tool` `log` `reader`|
 
 # Bitwarden
 | | |
@@ -47,6 +55,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows 10/11, MacOS 12+, Linux|
 |**Usage**|Cloud based password manager, browser plugins available.|
+|**Winget**|`winget install -e --id Bitwarden.Bitwarden`|
+|**Keywords**|`tool` `password` `vault`|
 
 # Chrome
 | | |
@@ -56,6 +66,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows, MacOS, Linux|
 |**Usage**|HTML5 web viewer, ignition and confluence pages tend to perform best|
+|**Winget**|`winget install -e --id Google.Chrome`|
+|**Keywords**|`browser` `chrome`|
 
 # CPUZ
 | | |
@@ -65,6 +77,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows|
 |**Usage**|Tool that makes it really easy to identify the specifications of the PC without much work.|
+|**Winget**|`winget install -e --id CPUID.CPU-Z`|
+|**Keywords**|`tool` `cpuz` `cpu-z`|
 
 # DaVinci Resolve
 | | |
@@ -74,6 +88,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows, MacOS, Linux|
 |**Usage**|Video Editing Software|
+|**Winget**||
+|**Keywords**|`video` `sound` `editing`|
 
 # DBGate
 | | |
@@ -83,6 +99,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows, MacOS, Linux|
 |**Usage**|Useful for accessing multiple databases among many platforms, not as robust as a platform specific tool|
+|**Winget**|`winget install -e --id JanProchazka.dbgate`|
+|**Keywords**|`tool` `dbgate` `db-gate` `sql`|
 
 # Everything
 | | |
@@ -92,6 +110,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows|
 |**Usage**|File Search tool, faster than built-in search|
+|**Winget**|`winget install -e --id voidtools.Everything`|
+|**Keywords**|`file` `search` `everything`|
 
 # Firefox
 | | |
@@ -101,6 +121,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows, MacOS, Linux|
 |**Usage**|HTML5 Web viewer, not as comprehensive as chrome, runs lighter|
+|**Winget**|`winget install -e --id Mozilla.Firefox`|
+|**Keywords**|`browser` `firefox`|
 
 # Greenshot
 | | |
@@ -110,6 +132,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows|
 |**Usage**|Screenshot tool with built-in editor|
+|**Winget**|`winget install -e --id Greenshot.Greenshot`|
+|**Keywords**|`screenshot` `snagit` `snag-it`|
 
 # Image Burn
 | | |
@@ -119,6 +143,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free| 
 |**Compatibility**|Windows|
 |**Usage**|Creates bootable DVDs and is useful for backing up installation disks to ISO formats.|
+|**Winget**|`winget install -e --id LIGHTNINGUK.ImgBurn`|
+|**Keywords**|`iso` `dvd`|
 
 # Krita
 | | |
@@ -127,7 +153,9 @@ The tools listed below can have been discovered over the years and this document
 |**Offline Installer**||
 |**Price**|Free|
 |**Compatibility**|Windows, MacOS, Linux|
-|**Usage**|Image Editing Software, edits and saves most known formats.<br><br>Does not create SVGs|
+|**Usage**|Image Editing Software, edits and saves most known formats.<br><br>***Does not create SVGs***|
+|**Winget**|`winget install -e --id KDE.Krita`|
+|**Keywords**|`image` `png` `jpg` `gif`|
 
 # mRemoteNG
 | | |
@@ -137,6 +165,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows|
 |**Usage**|Remote desktop connection manager supporting multiple protocols including RDP, SSH, and VNC. Not all connection errors are returned though so other software may be needed if you are unable to connect. Supports inherited credentials|
+|**Winget**|`winget install -e --id KDE.Krita`|
+|**Keywords**|`image` `png` `jpg` `gif`|
 
 
 # MySQL Workbench
@@ -147,6 +177,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows, MacOS, Linux|
 |**Usage**|Used to manage MySQL databases|
+|**Winget**||
+|**Keywords**|`mysql` `3306` `db`|
 
 # Notepad++
 | | |
@@ -156,6 +188,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows 95 through Current Windows Release, no Mac or Linux support at this time.|
 |**Usage**|Notepad++ is an enhanced Notepad application that includes tabs and code highlighting by default. It additionally has a suite of available plugins to further enhance its feature set. When building a new computer this generally considered an “automatic install” due to its large number of supported features.|
+|**Winget**|`winget install -e --id Notepad++.Notepad++`|
+|**Keywords**|`notepad++` `txt`|
 
 # OBS Studio
 | | |
@@ -165,6 +199,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows, MacOS, Linux|
 |**Usage**|Used for recording screens and audio|
+|**Winget**|`winget install -e --id OBSProject.OBSStudio`|
+|**Keywords**||
 
 # PDQDeploy
 | | |
@@ -174,6 +210,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Trial|
 |**Compatibility**|Windows|
 |**Usage**|Useful for deploying software to computers over a network on a schedule|
+|**Winget**||
+|**Keywords**||
 
 # PDQInventory
 | | |
@@ -183,6 +221,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Trial|
 |**Compatibility**|Windows|
 |**Usage**|Useful for maintaining a dynamic network inventory|
+|**Winget**||
+|**Keywords**||
 
 # PGAdmin
 | | |
@@ -192,6 +232,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows, MacOS, Linux|
 |**Usage**|Manages PostgreSQL Databases|
+|**Winget**|`winget install -e --id PostgreSQL.pgAdmin`|
+|**Keywords**||
 
 # Putty
 | | |
@@ -201,6 +243,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows, Linux|
 |**Usage**|Used to communicate with remote and local systems via SSH, Telnet, and Serial|
+|**Winget**|`winget install -e --id PuTTY.PuTTY`|
+|**Keywords**||
 
 # Remote Desktop Connection Manager
 | | |
@@ -210,6 +254,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows|
 |**Usage**|Allows support and developers to easily manage multiple remote desktop connections.  Connections can be stored as part of groups, and those groups can inherit logon credentials and other settings from their parents.|
+|**Winget**|`winget install -e --id Microsoft.Sysinternals.RDCMan`|
+|**Keywords**||
 
 # Rufus
 | | |
@@ -219,6 +265,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows|
 |**Usage**|Useful for creating bootable USB drives and downloading specific Windows Releases.<br><br>Example: ABB Patch is only approved on Windows 10 22H2, this tool will help you download it.|
+|**Winget**|`winget install -e --id Rufus.Rufus`|
+|**Keywords**||
 
 # SQL Server Management Studio
 | | |
@@ -228,6 +276,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows|
 |**Usage**|Robust MSSQL management tool|
+|**Winget**|`winget install -e --id Microsoft.SQLServerManagementStudio`|
+|**Keywords**||
 
 # Teracopy
 | | |
@@ -237,6 +287,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows, MacOS|
 |**Usage**|Alternative Copy/Paste tool. Displays more information regarding the progress, adds improved functionality for pausing and resuming jobs.|
+|**Winget**|`winget install -e --id CodeSector.TeraCopy`|
+|**Keywords**||
 
 # Ventoy
 | | |
@@ -246,6 +298,8 @@ The tools listed below can have been discovered over the years and this document
 |**Price**|Free|
 |**Compatibility**|Windows for tool creation|
 |**Usage**|Turns any USB drive into a multi-bootable drive. After drive is formatted with the tool, save bootable ISO files to the new directory. On boot the user will be able to select the appropriate boot file.|
+|**Winget**|`winget install -e --id ventoy.Ventoy`|
+|**Keywords**||
 
 ## Clonezilla
 | | |
@@ -292,6 +346,8 @@ Clones an entire hard drive to a file and writes that file to a hard drive of th
 |**Price**|Free|
 |**Compatibility**|Windows, MacOS, Linux|
 |**Usage**|Multi-format Media Player|
+|**Winget**|`winget install -e --id VideoLAN.VLC`|
+|**Keywords**||
 
 # VSCode
 | | |
@@ -301,6 +357,8 @@ Clones an entire hard drive to a file and writes that file to a hard drive of th
 |**Price**|Free|
 |**Compatibility**|Windows, MacOS, Linux|
 |**Usage**|Customizable Code Editor|
+|**Winget**||
+|**Keywords**||
 
 # WinDirStat
 | | |
@@ -310,6 +368,17 @@ Clones an entire hard drive to a file and writes that file to a hard drive of th
 |**Price**|Free|
 |**Compatibility**|Windows|
 |**Usage**|Helps visually identify large files on a hard drive|
+|**Winget**|`winget install -e --id WinDirStat.WinDirStat`|
+|**Keywords**||
+
+# WinGet
+| | |
+|---|---|
+|**Official Repo**| |
+|**Offline Installer**||
+|**Price**|Free|
+|**Compatibility**|Windows|
+|**Usage**|Already installed on Windows, allows users to install software using the `winget` command in powershell. For more options check https://winget.run/|
 
 # WinSCP
 | | |
@@ -319,3 +388,5 @@ Clones an entire hard drive to a file and writes that file to a hard drive of th
 |**Price**|Free|
 |**Compatibility**|Windows|
 |**Usage**|Useful tool for moving files between Windows and Linux when other tools are unavailable.|
+|**Winget**|`winget install -e --id WinSCP.WinSCP`|
+|**Keywords**||
