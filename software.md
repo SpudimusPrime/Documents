@@ -1,8 +1,6 @@
 # Forward
 
-Support team can be called upon to do many types of tasks, the tools listed below can have been discovered over the years and this document is developed to reduce the amount of time needed to re-research them when we need them again.
-
-Make efforts to list these tools alphabetically for ease of reference.
+The tools listed below can have been discovered over the years and this document is developed to reduce the amount of time needed to re-research them when we need them again.
 
 # 7-Zip
 
@@ -17,8 +15,7 @@ Make efforts to list these tools alphabetically for ease of reference.
 # Adobe Reader
 | | |
 |---|---|
-|**Official Repo**|
-https://get.adobe.com/reader/ 
+|**Official Repo**|https://get.adobe.com/reader/ |
 |**Offline Installer**|https://get.adobe.com/reader/enterprise/ |
 |**Price**|Free|
 |**Compatibility**|Windows, MacOS|
@@ -114,14 +111,33 @@ https://get.adobe.com/reader/
 |**Compatibility**|Windows|
 |**Usage**|Screenshot tool with built-in editor|
 
+# Image Burn
+| | |
+|---|---|
+|**Official Repo**|https://www.imgburn.com/ |
+|**Offline Installer**||
+|**Price**|Free| 
+|**Compatibility**|Windows|
+|**Usage**|Creates bootable DVDs and is useful for backing up installation disks to ISO formats.|
+
 # Krita
 | | |
 |---|---|
-|**Official Repo**|https://krita.org/en/  
+|**Official Repo**|https://krita.org/en/  |
 |**Offline Installer**||
 |**Price**|Free|
 |**Compatibility**|Windows, MacOS, Linux|
 |**Usage**|Image Editing Software, edits and saves most known formats.<br><br>Does not create SVGs|
+
+# mRemoteNG
+| | |
+|---|---|
+|**Official Repo**|https://mremoteng.org/  |
+|**Offline Installer**||
+|**Price**|Free|
+|**Compatibility**|Windows|
+|**Usage**|Remote desktop connection manager supporting multiple protocols including RDP, SSH, and VNC. Not all connection errors are returned though so other software may be needed if you are unable to connect. Supports inherited credentials|
+
 
 # MySQL Workbench
 | | |
@@ -204,15 +220,6 @@ https://get.adobe.com/reader/
 |**Compatibility**|Windows|
 |**Usage**|Useful for creating bootable USB drives and downloading specific Windows Releases.<br><br>Example: ABB Patch is only approved on Windows 10 22H2, this tool will help you download it.|
 
-# Image Burn
-| | |
-|---|---|
-|**Official Repo**|https://www.imgburn.com/ |
-|**Offline Installer**||
-|**Price**|Free|
-|**Compatibility**|Windows|
-|**Usage**|Creates bootable DVDs and is useful for backing up installation disks to ISO formats.|
-
 # SQL Server Management Studio
 | | |
 |---|---|
@@ -275,11 +282,7 @@ Clones an entire hard drive to a file and writes that file to a hard drive of th
 |---|---|
 |**Official Repo**|https://www.microsoft.com/en-us/software-download/windows10 |
 |**Price**|Free*|
-|**Usage**|Launches Windows 10 installation media. The software is free to use for 30 days without a license.|
-
-
-
-The download link downloads a tool to download the version of your choice.
+|**Usage**|Launches Windows 10 installation media. The software is free to use for 30 days without a license. The download link downloads a tool to download the version of your choice. |
 
 # VLC Media Player
 | | |
