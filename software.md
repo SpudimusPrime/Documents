@@ -300,7 +300,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**||
 |**apt**||
 |**snap**|`snap install remmina`|
-|**Keywords**||
+|**Keywords**|`rdp` `telnet` `ssh` `vnc`|
 
 # Remote Desktop Connection Manager
 | | |
@@ -313,7 +313,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id Microsoft.Sysinternals.RDCMan`|
 |**apt**||
 |**snap**||
-|**Keywords**||
+|**Keywords**|`rdp`|
 
 # Rufus
 | | |
@@ -326,7 +326,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id Rufus.Rufus`|
 |**apt**||
 |**snap**||
-|**Keywords**||
+|**Keywords**|`usb` `iso`|
 
 # Snap
 | | |
@@ -337,7 +337,7 @@ The tools listed below can have been discovered over the years and this document
 |**Compatibility**|Linux|
 |**Debian**|` apt update && apt install snapd`|
 |**Fedora**|`dnf install snapd`|
-|**Keywords**||
+|**Keywords**|`package` `manager`|
 
 # SQL Server Management Studio
 | | |
