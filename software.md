@@ -13,6 +13,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id 7zip.7zip`|
 |**apt**|`apt install p7zip-desktop`|
 |**snap**|`snap install p7zip-desktop`|
+|**brew**||
 |**Keywords**|`compression` `zip` `7-zip`|
 
 # Adobe Reader
@@ -26,6 +27,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id Adobe.Acrobat.Reader.64-bit`|
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`pdf` `adobe` `acrobat` `reader`|
 
 # Advanced IP Scanner
@@ -39,7 +41,23 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id Famatech.AdvancedIPScanner`|
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`tool` `network` `ip` `scanner`|
+
+# Azure Data Studio
+| | |
+|---|---|
+|**Usage**|Alternative to SSMS, DB agnostic. Utilizes Plugins|
+|**Official Repo**|https://learn.microsoft.com/en-us/azure-data-studio/  |
+|**Offline Installer**||
+|**Price**|Free|
+|**Compatibility**|Windows, MacOS, Linux|
+|**Winget**|`winget install -e --id Microsoft.AzureDataStudio`|
+|**apt**||
+|**snap**|`sudo snap install azuredatastudio`|
+|**brew**|`brew install --cask azure-data-studio`|
+|**Keywords**|`tool` `network` `ip` `scanner`|
+|**Other**|Snap package is not offically supported, refer to the offical repo for the supported version and install instructions.|
 
 # Baretail
 | | |
@@ -52,6 +70,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**||
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`tool` `log` `reader`|
 
 # Bitwarden
@@ -65,6 +84,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id Bitwarden.Bitwarden`|
 |**apt**||
 |**snap**|`sudo snap install bitwarden`|
+|**brew**|`brew install bitwarden`|
 |**Keywords**|`tool` `password` `vault`|
 
 # Chrome
@@ -78,6 +98,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id Google.Chrome`|
 |**apt**||
 |**snap**||
+|**brew**|`brew install --cask google-chrome`|
 |**Keywords**|`browser` `chrome`|
 
 # CPUZ
@@ -91,6 +112,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id CPUID.CPU-Z`|
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`tool` `cpuz` `cpu-z`|
 
 # DaVinci Resolve
@@ -104,6 +126,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**||
 |**apt**||
 |**snap**||
+|**brew**|`brew install --cask davinci-resolve`|
 |**Keywords**|`video` `sound` `editing`|
 
 # DBGate
@@ -117,6 +140,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id JanProchazka.dbgate`|
 |**apt**||
 |**snap**|`sudo snap install dbgate`|
+|**brew**|`brew install --cask dbgate`|
 |**Keywords**|`tool` `dbgate` `db-gate` `sql`|
 
 # Everything
@@ -130,6 +154,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id voidtools.Everything`|
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`file` `search` `everything`|
 
 # Firefox
@@ -143,6 +168,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id Mozilla.Firefox`|
 |**apt**||
 |**snap**|`sudo snap install firefox `|
+|**brew**|`brew install --cask firefox`|
 |**Keywords**|`browser` `firefox`|
 
 # Greenshot
@@ -156,6 +182,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id Greenshot.Greenshot`|
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`screenshot` `snagit` `snag-it`|
 
 # Image Burn
@@ -169,6 +196,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id LIGHTNINGUK.ImgBurn`|
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`iso` `dvd`|
 
 # Krita
@@ -182,6 +210,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id KDE.Krita`|
 |**apt**|`apt install krita`|
 |**snap**|`snap install krita`|
+|**brew**|`brew install --cask krita`|
 |**Keywords**|`image` `png` `jpg` `gif`|
 
 # mRemoteNG
@@ -195,6 +224,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id KDE.Krita`|
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`RDP` `ssh` `telnet` `vnc`|
 
 
@@ -209,6 +239,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**||
 |**apt**|`apt-get install mysql-workbench-community`|
 |**snap**||
+|**brew**|`brew install --cask mysqlworkbench`|
 |**Keywords**|`mysql` `3306` `db`|
 
 # Notepad++
@@ -222,6 +253,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id Notepad++.Notepad++`|
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`notepad++` `txt`|
 
 # OBS Studio
@@ -235,6 +267,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id OBSProject.OBSStudio`|
 |**apt**|`add-apt-repository ppa:obsproject/obs-studio && apt install obs-studio`|
 |**snap**||
+|**brew**|`brew install --cask obs`|
 |**Keywords**|`recording` `streaming` `video`|
 
 # PDQDeploy
@@ -248,6 +281,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**||
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`tool` `I.T.` `IT` `software` `deployment`|
 
 # PDQInventory
@@ -261,6 +295,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**||
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`tool` `I.T.` `IT` `software` `hardware` `inventory`|
 
 # PGAdmin
@@ -274,6 +309,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id PostgreSQL.pgAdmin`|
 |**apt**||
 |**snap**|`sudo snap install pgadmin4`|
+|**brew**|`brew install --cask pgadmin4`|
 |**Keywords**|`sql` `postgresql` `5432`|
 
 # Putty
@@ -287,6 +323,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id PuTTY.PuTTY`|
 |**apt**|`apt-get install putty`|
 |**snap**|`snap install putty-gtk --edge`|
+|**brew**|`brew install putty`|
 |**Keywords**|`telnet` `ssh`|
 
 # Remmina
@@ -300,6 +337,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**||
 |**apt**||
 |**snap**|`snap install remmina`|
+|**brew**||
 |**Keywords**|`rdp` `telnet` `ssh` `vnc`|
 
 # Remote Desktop Connection Manager
@@ -313,6 +351,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id Microsoft.Sysinternals.RDCMan`|
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`rdp`|
 
 # Rufus
@@ -326,6 +365,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id Rufus.Rufus`|
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`usb` `iso`|
 
 # Snap
@@ -350,6 +390,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id Microsoft.SQLServerManagementStudio`|
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`SSMS` `1433` `SQL`|
 
 # Teracopy
@@ -363,6 +404,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id CodeSector.TeraCopy`|
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`file` `copy`|
 
 # Ventoy
@@ -376,6 +418,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id ventoy.Ventoy`|
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`bootable` `usb`|
 
 ## Clonezilla
@@ -424,6 +467,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id VideoLAN.VLC`|
 |**apt**||
 |**snap**|`sudo snap install vlc`|
+|**brew**|`brew install --cask vlc`|
 |**Keywords**|`media` `winamp` `mkv` `mp4` `mp3`|
 
 # VSCode
@@ -437,6 +481,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id Microsoft.VisualStudioCode`|
 |**apt**||
 |**snap**|`snap install --classic code`|
+|**brew**|`brew install --cask visual-studio-code`|
 |**Keywords**|`code` `editor`|
 
 # WinDirStat
@@ -450,6 +495,7 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id WinDirStat.WinDirStat`|
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`storage` `graphical` `ISE`|
 
 # WinGet
@@ -472,4 +518,5 @@ The tools listed below can have been discovered over the years and this document
 |**Winget**|`winget install -e --id WinSCP.WinSCP`|
 |**apt**||
 |**snap**||
+|**brew**||
 |**Keywords**|`file` `transfer` `22`|
