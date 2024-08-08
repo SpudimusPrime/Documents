@@ -171,6 +171,20 @@ The tools listed below can have been discovered over the years and this document
 |**brew**|`brew install --cask firefox`|
 |**Keywords**|`browser` `firefox`|
 
+# Flameshot
+|||
+|---|---|
+|**Details**|Another screen shot tool with options to edit in during capture|
+|**Offical Repo**|https://flameshot.org/|
+|**Offline Installer**||
+|**Price**|Free|
+|**compatibility**|Windows, Linux, MacOS|
+|**Winget**|`winget install -e --id Flameshot.Flameshot`|
+|**apt**|`apt install flameshot`|
+|**snap**|`snap install flameshot`|
+|**brew**|`brew install --cask flameshot`|
+|**keywords**|`flameshot` `screenshot` `screencapture`|
+
 # Greenshot
 | | |
 |---|---|
