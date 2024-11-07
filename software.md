@@ -16,8 +16,9 @@ The tools listed below can have been discovered over the years and this document
 |`password`|`pdf`|`png`|`postgresql`|`rdp`|`reader`|
 |`recording`|`scanner`|`screencapture`|`screenshot`|`Snag-it`|`snagit`|
 |`software`|`sound`|`sql`|`ssh`|`ssms`|`storage`|
-|`streaming`|`telnet`|`tool`|`transfer`|`txt`|`usb`|
-|`vault`|`video`|`vlc`|`vnc`|`winamp`|`zip`|
+|`streaming`|`svg`|`telnet`|`tool`|`transfer`|`txt`|
+|`usb`|`vault`|`video`|`vlc`|`vnc`|`winamp`|
+|`zip`|
 
 # 7-Zip
 | | |
@@ -202,6 +203,20 @@ The tools listed below can have been discovered over the years and this document
 |**brew**|`brew install --cask flameshot`|
 |**keywords**|`flameshot` `screenshot` `screencapture` `snagit` `snag-it`|
 
+# GIMP
+| | |
+|---|---|
+|**Usage**|Image Editing Software, edits and saves most known formats.<br><br>***Can Create SVGs***|
+|**Official Repo**|https://www.gimp.org/  |
+|**Offline Installer**|https://www.gimp.org/downloads/|
+|**Price**|Free|
+|**Compatibility**|Windows, MacOS, Linux|
+|**Winget**|`winget install -e --id GIMP.GIMP`|
+|**apt**|`apt install gimp`|
+|**snap**|`snap install gimp`|
+|**brew**|`brew install --cask gimp`|
+|**Keywords**|`image` `png` `jpg` `gif` `img` `svg`|
+
 # Greenshot
 | | |
 |---|---|
@@ -237,7 +252,7 @@ The tools listed below can have been discovered over the years and this document
 |**Official Repo**|https://krita.org/en/  |
 |**Offline Installer**||
 |**Price**|Free|
-|**Compatibility**|Windows, MacOS, Linux|
+|**Compatibility**|Windows, MacOS, Linux, <span style="color:red">Non Arm Processors on all platfoms</span>|
 |**Winget**|`winget install -e --id KDE.Krita`|
 |**apt**|`apt install krita`|
 |**snap**|`snap install krita`|
