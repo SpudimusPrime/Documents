@@ -2,6 +2,23 @@
 
 The tools listed below can have been discovered over the years and this document is developed to reduce the amount of time needed to re-research them when we need them again.
 
+# Keywords
+| | | | | | |
+|---|---|---|---|---|---|
+|`22`|`1433`|`3306`|`5432`|`7-zip`|`acrobat`|
+|`adobe`|`bootable`|`browser`|`chrome`|`code`|`compression`|
+|`copy`|`Cpu-z`|`cpuz`|`db`|`Db-gate`|`dbgate`|
+|`deployment`|`dvd`|`editing`|`editor`|`file`|`firefox`|
+|`flameshot`|`gif`|`graphical`|`greenshot`|`hardware`|`I.T.`|
+|`image`|`img`|`inventory`|`ip`|`ise`|`iso`|
+|`IT`|`jpg`|`log`|`manager`|`media`|`mkv`|
+|`mp3`|`mp4`|`mysql`|`network`|`notepad++`|`package`|
+|`password`|`pdf`|`png`|`postgresql`|`rdp`|`reader`|
+|`recording`|`scanner`|`screencapture`|`screenshot`|`Snag-it`|`snagit`|
+|`software`|`sound`|`sql`|`ssh`|`ssms`|`storage`|
+|`streaming`|`telnet`|`tool`|`transfer`|`txt`|`usb`|
+|`vault`|`video`|`vlc`|`vnc`|`winamp`|`zip`|
+
 # 7-Zip
 | | |
 |---|---|
@@ -183,7 +200,7 @@ The tools listed below can have been discovered over the years and this document
 |**apt**|`apt install flameshot`|
 |**snap**|`snap install flameshot`|
 |**brew**|`brew install --cask flameshot`|
-|**keywords**|`flameshot` `screenshot` `screencapture`|
+|**keywords**|`flameshot` `screenshot` `screencapture` `snagit` `snag-it`|
 
 # Greenshot
 | | |
@@ -197,7 +214,7 @@ The tools listed below can have been discovered over the years and this document
 |**apt**||
 |**snap**||
 |**brew**||
-|**Keywords**|`screenshot` `snagit` `snag-it`|
+|**Keywords**|`screenshot` `snagit` `snag-it` `screencapture` `greenshot`|
 
 # Image Burn
 | | |
@@ -225,7 +242,7 @@ The tools listed below can have been discovered over the years and this document
 |**apt**|`apt install krita`|
 |**snap**|`snap install krita`|
 |**brew**|`brew install --cask krita`|
-|**Keywords**|`image` `png` `jpg` `gif`|
+|**Keywords**|`image` `png` `jpg` `gif` `img`|
 
 # mRemoteNG
 | | |
@@ -482,7 +499,7 @@ The tools listed below can have been discovered over the years and this document
 |**apt**||
 |**snap**|`sudo snap install vlc`|
 |**brew**|`brew install --cask vlc`|
-|**Keywords**|`media` `winamp` `mkv` `mp4` `mp3`|
+|**Keywords**|`media` `winamp` `mkv` `mp4` `mp3` `vlc`|
 
 # VSCode
 | | |
