@@ -1,3 +1,58 @@
+# Table of Contents <!-- omit from toc -->
+- [Forward](#forward)
+- [Keywords](#keywords)
+- [7-Zip](#7-zip)
+- [Adobe Reader](#adobe-reader)
+- [Advanced IP Scanner](#advanced-ip-scanner)
+- [Azure Data Studio](#azure-data-studio)
+- [Baretail](#baretail)
+- [Bitwarden](#bitwarden)
+- [Chrome](#chrome)
+- [CPUZ](#cpuz)
+- [DaVinci Resolve](#davinci-resolve)
+- [DBGate](#dbgate)
+- [Everything](#everything)
+- [Firefox](#firefox)
+- [Flameshot](#flameshot)
+- [GIMP](#gimp)
+- [Greenshot](#greenshot)
+- [Image Burn](#image-burn)
+- [Krita](#krita)
+- [mRemoteNG](#mremoteng)
+- [MySQL Workbench](#mysql-workbench)
+- [Notepad++](#notepad)
+- [OBS Studio](#obs-studio)
+- [PDQDeploy](#pdqdeploy)
+- [PDQInventory](#pdqinventory)
+- [PGAdmin](#pgadmin)
+- [Putty](#putty)
+- [Remmina](#remmina)
+- [Remote Desktop Connection Manager](#remote-desktop-connection-manager)
+- [Rufus](#rufus)
+- [Snap](#snap)
+- [SQL Server Management Studio](#sql-server-management-studio)
+- [Teracopy](#teracopy)
+- [Ventoy](#ventoy)
+  - [Clonezilla](#clonezilla)
+  - [Hirens BootCD](#hirens-bootcd)
+  - [Ubuntu](#ubuntu)
+  - [Ultimate Boot CD](#ultimate-boot-cd)
+  - [Windows 10](#windows-10)
+- [VLC Media Player](#vlc-media-player)
+- [VSCode](#vscode)
+  - [Extension: DBML Entity-Relationship Diagrams visualizer](#extension-dbml-entity-relationship-diagrams-visualizer)
+  - [Extension: DuckDB Sql Tools](#extension-duckdb-sql-tools)
+  - [Extension: Markdown All in One](#extension-markdown-all-in-one)
+  - [Extension: Markdown Preview Mermaid Support](#extension-markdown-preview-mermaid-support)
+  - [Extension: SQL Formatter VSCode](#extension-sql-formatter-vscode)
+  - [Extension: SQL Server (mssql)](#extension-sql-server-mssql)
+  - [Extension: SQL Tools](#extension-sql-tools)
+  - [Extension: vscode-dbml](#extension-vscode-dbml)
+- [WinDirStat](#windirstat)
+- [WinGet](#winget)
+- [WinSCP](#winscp)
+
+
 # Forward
 
 The tools listed below can have been discovered over the years and this document is developed to reduce the amount of time needed to re-research them when we need them again.
@@ -529,6 +584,65 @@ The tools listed below can have been discovered over the years and this document
 |**snap**|`snap install --classic code`|
 |**brew**|`brew install --cask visual-studio-code`|
 |**Keywords**|`code` `editor`|
+
+## Extension: DBML Entity-Relationship Diagrams visualizer
+| | |
+|---|---|
+|**Usage**|Transforms .dbml files into easy to read diagrams|
+|**Official Repo**|[bocovo.dbml-erd-visualizer](https://marketplace.visualstudio.com/items?itemName=bocovo.dbml-erd-visualizer)|
+|**Price**|Free|
+
+## Extension: DuckDB Sql Tools
+| | |
+|---|---|
+|**Usage**|Plugin to allow in VSCode Management of DuckDBs|
+|**Official Repo**|[RandomFractalsInc.duckdb-sql-tools](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.duckdb-sql-tools)|
+|**Price**|Free|
+
+## Extension: Markdown All in One
+| | |
+|---|---|
+|**Usage**|Makes the markdown pretty and gives a preview option|
+|**Official Repo**|[yzhang.markdown-all-in-one](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)|
+|**Price**|Free|
+
+## Extension: Markdown Preview Mermaid Support
+| | |
+|---|---|
+|**Usage**|Allows mermaid to be previewed in your markdown files|
+|**Official Repo**|[bierner.markdown-mermaid](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)|
+|**Price**|Free|
+
+## Extension: SQL Formatter VSCode
+| | |
+|---|---|
+|**Usage**|Makes SQL easier to read|
+|**Official Repo**|[ReneSaarsoo.sql-formatter-vsc](https://marketplace.visualstudio.com/items?itemName=ReneSaarsoo.sql-formatter-vsc)|
+|**Price**|Free|
+|**Note**|There is another extension with the same icon and more downloads, that one was retired and this is the fork that lives on in its place.|
+
+## Extension: SQL Server (mssql)
+| | |
+|---|---|
+|**Usage**||
+|**Official Repo**|[ms-mssql.mssql](https://marketplace.visualstudio.com/items?itemName=ms-mssql.mssql)|
+|**Price**|Free|
+
+
+## Extension: SQL Tools
+| | |
+|---|---|
+|**Usage**|Creates the SQL Connections for many DBs|
+|**Official Repo**|[mtxr.sqltools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools)|
+|**Price**|Free|
+
+## Extension: vscode-dbml
+| | |
+|---|---|
+|**Usage**|Most complete version of DBML availiable in the vscode marketplace to date.|
+|**Official Repo**|[matt-meyers.vscode-dbml](https://marketplace.visualstudio.com/items?itemName=matt-meyers.vscode-dbml)|
+|**Price**|Free|
+|**Note**|Not *actively* maintained, but dev says they'll push updates if asked, of the available options for dbml pluggins, still the best. The extension does support all paid features of dbdiagrams.io, but none of the preview tools have been able to fully render the paid features.|
 
 # WinDirStat
 | | |
